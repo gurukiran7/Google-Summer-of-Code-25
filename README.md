@@ -1,7 +1,7 @@
 <div align="center">
     <b> 
         <p>
-        Project Name  :-  <a href="https://summerofcode.withgoogle.com/programs/2025/projects/b3hFfKM4">HR Management module</a>
+        Project Name  :-  <a href="https://summerofcode.withgoogle.com/programs/2025/projects/b3hFfKM4">HR Management module</a>  <br>
         Organizations :- <a href="https://ohc.network/">Open HealthCare Network
 </a>
         </p>
