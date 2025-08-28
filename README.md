@@ -1,9 +1,7 @@
 <div align="center">
-    <a href="https://summerofcode.withgoogle.com/programs/2025/projects/b3hFfKM4">HR Management module</a>
-    <br>
     <b> 
         <p>
-        Project Name  :- HR Management module<br>
+        Project Name  :-  <a href="https://summerofcode.withgoogle.com/programs/2025/projects/b3hFfKM4">HR Management module</a>
         Organizations :- <a href="https://ohc.network/">Open HealthCare Network
 </a>
         </p>
@@ -22,11 +20,11 @@
 <br>
 <br>
 
-##  Project Abstract
+## Project Abstract
 
 The goal of this project is to develop an HR management module for the CARE system, streamlining employee management and automating leave and holiday tracking. The platform enables HR to efficiently manage employee records, process leave requests, securely handle document uploads, manage holidays, and allows employees to apply for leave and access their profiles and leave history.
 
-##  Deliverables
+## Deliverables
 
 The following are the deliverables of this project:
 
@@ -42,7 +40,7 @@ The following are the deliverables of this project:
 - Authorization checks ensure only permitted users can access or modify sensitive data.
 - The system automatically generates an employee profile whenever a new user is created, simplifying onboarding and ensuring all users have corresponding HR records.
 
-##  Product Demo
+## Product Demo
 
 - **Employee Dashboard:**  
   <img src="./assests/Employee_Dashboard.png" alt="Employee Dashboard" />
@@ -64,8 +62,7 @@ The following are the deliverables of this project:
 
 ## - Drive link for the Demo :- <a href="https://drive.google.com/drive/folders/1oxtiXObGyiNg9YqrijMvqSfcwGzASyeb?usp=sharing" target="_blank"> Click here </a>
 
-
- Contributions
+Contributions
 
 Repo: Front end :- [#care_hrm_fe](https://github.com/gurukiran7/care_hrm_fe)
 Repo: Back end :- [#care_hrm_be](https://github.com/gurukiran7/care_hrm_be)
@@ -74,21 +71,19 @@ Repo: Back end :- [#care_hrm_be](https://github.com/gurukiran7/care_hrm_be)
 
 I will be resolving the bugs and also will work on the changes as per the requirements of the project. I will coordinate with the team to ensure a smooth release and ongoing maintenance of the HRM module as part of the CARE platform’s future updates.
 
-##  Mentors
+## Mentors
 
 I'm incredibly grateful to my mentors and the entire team for their guidance and support before and throughout GSoC.
 
 I’ve learned so much, not just within GSoC but far beyond, and I’m truly thankful to have had the opportunity to be mentored and work alongside such amazing people.
 
-
-
 ## About Me
 
-| **Name**      | Gurukiran  B A                                                                                                  |
-| :--------------- | :---------------------------------------------------------------------------------------------------------- |
-| **Organization** | [Open HealthCare Network](https://ohc.network/)                                                                         |
+| **Name**         | Gurukiran B A                                                                               |
+| :--------------- | :------------------------------------------------------------------------------------------ |
+| **Organization** | [Open HealthCare Network](https://ohc.network/)                                             |
 | **Project**      | [HR Management module](https://summerofcode.withgoogle.com/programs/2025/projects/b3hFfKM4) |
-| **GitHub**       | [@gurukiran7](https://github.com/gurukiran7)                                                          |
-| **LinkedIn**     | [Gurukiran B A](https://www.linkedin.com/in/gurukiran-b-a-2a090a27b/)                                              |        
-| **Email**        | <a href="mailto:gurukirankiran7@gmail.com">gurukirankiran7@gmail.com</a>                                            |
-                                                 |
+| **GitHub**       | [@gurukiran7](https://github.com/gurukiran7)                                                |
+| **LinkedIn**     | [Gurukiran B A](https://www.linkedin.com/in/gurukiran-b-a-2a090a27b/)                       |
+| **Email**        | <a href="mailto:gurukirankiran7@gmail.com">gurukirankiran7@gmail.com</a>                    |
+|  |
