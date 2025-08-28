@@ -81,9 +81,9 @@ I'm incredibly grateful to my mentors and the entire team for their guidance and
 
 I’ve learned so much, not just within GSoC but far beyond, and I’m truly thankful to have had the opportunity to be mentored and work alongside such amazing people.
 
-- **Rithvik Nishad
+- Rithvik Nishad
 
-- **Aakash Singh
+- Aakash Singh
 
 
 
