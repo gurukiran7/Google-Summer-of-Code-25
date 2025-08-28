@@ -62,10 +62,14 @@ The following are the deliverables of this project:
 
 ## - Drive link for the Demo :- <a href="https://drive.google.com/drive/folders/1oxtiXObGyiNg9YqrijMvqSfcwGzASyeb?usp=sharing" target="_blank"> Click here </a>
 
-Contributions
+## Contributions
 
-Repo: Front end :- [#care_hrm_fe](https://github.com/gurukiran7/care_hrm_fe)
-Repo: Back end :- [#care_hrm_be](https://github.com/gurukiran7/care_hrm_be)
+- **Frontend Repository:**  
+  [care_hrm_fe](https://github.com/gurukiran7/care_hrm_fe)
+
+- **Backend Repository:**  
+  [care_hrm_be](https://github.com/gurukiran7/care_hrm_be)
+
 
 ### Future Scope
 
@@ -76,6 +80,12 @@ I will be resolving the bugs and also will work on the changes as per the requir
 I'm incredibly grateful to my mentors and the entire team for their guidance and support before and throughout GSoC.
 
 I’ve learned so much, not just within GSoC but far beyond, and I’m truly thankful to have had the opportunity to be mentored and work alongside such amazing people.
+
+- **Rithvik Nishad
+
+- **Aakash Singh
+
+
 
 ## About Me
 
