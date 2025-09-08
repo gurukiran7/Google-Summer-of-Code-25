@@ -29,7 +29,7 @@ The goal of this project is to develop an HR management module for the CARE syst
 The following are the deliverables of this project:
 
 - HR teams can manage employee profiles, including creation, update, and retrieval.
-- Employees can view and update their own profiles and access their leave history.
+- Employees can view their own profiles and access their leave history.
 - Employees can apply for leave and view the status of their requests.
 - HR can review, approve, reject, and cancel leave requests.
 - Leave balances are tracked and updated automatically.
